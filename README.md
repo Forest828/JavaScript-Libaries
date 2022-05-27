@@ -1,10 +1,9 @@
 # JavaScript Libaries
 ## P5.js
-<copy-button>
+
 ```javascript
 <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.2/p5.js"></script>
-```
-</copy-button>
+```<copy-button>
 ## JQuery.js
 ```javascript
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
